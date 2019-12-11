@@ -20,4 +20,5 @@ def remove_strawberry(contacts)
       values.delete("strawberry")
     end
   }
+  contacts
 end
